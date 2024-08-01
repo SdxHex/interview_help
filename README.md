@@ -37,3 +37,4 @@ This application helps you conduct mock interviews by generating tailored interv
 If you encounter any issues, ensure that FFmpeg is correctly installed and that your system PATH includes the path to the FFmpeg `bin` folder.
 
 For further assistance, feel free to reach out!
+Michael Bailey
