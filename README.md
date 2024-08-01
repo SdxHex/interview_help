@@ -1,5 +1,5 @@
 # Mock Interview Application
-##Created by Michael Bailey
+## Created by Michael Bailey
 This application helps you conduct mock interviews by generating tailored interview questions based on a job description, capturing your spoken responses, and providing feedback and ratings.
 
 ## Prerequisites
