@@ -5,7 +5,7 @@ This application helps you conduct mock interviews by generating tailored interv
 ## Prerequisites
 
 1. [FFmpeg](https://ffmpeg.org/download.html) - A multimedia framework needed for audio processing.
-2. [Interview_Helper] From text message - Main Program
+2. [Interview_Helper] From email message - Main Program
 
 ## Installation
 
