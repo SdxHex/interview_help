@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/e9a39808-c3ec-442c-82cf-6ef06dada531)
+
+
 # Mock Interview Application
 ## Created by Michael Bailey
 This application helps you conduct mock interviews by generating tailored interview questions based on a job description, capturing your spoken responses, and providing feedback and ratings.
