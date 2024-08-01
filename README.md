@@ -29,9 +29,11 @@ This application helps you conduct mock interviews by generating tailored interv
 
 1. Open the application by double-clicking the `main.exe` file.
 2. Enter the job description in the "Job Description" box.
-3. Press the "Start" button to get a tailored interview question.
-4. Answer the question verbally. Press the "Submit" button to stop recording.
-5. The application will transcribe your response, provide feedback, and rate your answer (1-5).
+3. Enter the interviewer's LinkedIn profile URL in the "Interviewer's LinkedIn Profile URL" box.
+4. Press the "Start" button to get a tailored interview question.
+5. Answer the question verbally. Press the "Submit" button to stop recording.
+6. The application will transcribe your response, provide feedback, and rate your answer (1-5).
+
 
 ## Troubleshooting
 
